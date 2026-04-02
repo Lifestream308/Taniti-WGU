@@ -1,0 +1,36 @@
+* {
+    font-family: Helvetica, sans-serif;
+    box-sizing: border-box;
+}
+html {
+    scroll-behavior: smooth;
+    height: 100%;
+}
+body {
+    height: 100%;
+    background-color: #e1eeea;
+}
+
+header {
+    background: white;
+    color: #333;
+    padding: 1rem;
+}
+
+header nav {
+    display:flex;
+    background-color: #6699CC;
+    padding: 1rem 0;
+}
+  
+header nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0rem;
+    padding: 1rem 1rem 1rem 1rem;
+}
+
+header nav a:hover {
+    color: white;
+    background-color:#676767;
+}
