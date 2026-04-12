@@ -36,6 +36,15 @@ header nav a:hover {
     background-color:#676767;
 }
 
+.logo {
+    display: flex;
+    align-items: center;
+}
+
+.logo p {
+    font-size: 2.5rem;
+}
+
 .image-container {
 margin-bottom: 0rem;
 padding: 0rem;
