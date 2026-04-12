@@ -100,11 +100,11 @@ height: auto
 }
 
 .faq-container {
-    margin: 0rem 5rem;
+    margin: 3rem 0rem 3rem 5rem;
 }
 
 .question {
-    font-size: 2rem;
+    font-size: 1.75rem;
 }
 
 .answer {
