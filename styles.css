@@ -110,3 +110,42 @@ height: auto
 .answer {
     font-size: 1.5rem;
 }
+
+.section-container {
+    display: flex;
+    width: 30rem;
+    /* justify-content: center; */
+    /* align-items: center; */
+    flex-direction: column;
+}
+
+.section-container h2 {
+    margin: 2rem 0 1rem 0rem;
+    font-size: 2.5rem;
+}
+
+.section-container p {
+    margin: 0rem 0 1.5rem 0rem;
+    font-size: 1.5rem;
+
+}
+
+.section-container button {
+    width: fit-content;
+    font-size: 1.25rem;
+    background-color: #4a6fa5;
+    color: white;
+    border: none;
+    outline: none;
+    padding: 1rem 1.5rem;
+    border-radius: 1rem;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+    cursor: pointer;
+}
+
+.section-container2 {
+    display: flex;
+    justify-content: center;
+    margin: 0 0 0 0rem;
+    gap: 3rem;
+}
